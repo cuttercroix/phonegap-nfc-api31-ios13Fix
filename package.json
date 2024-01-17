@@ -1,6 +1,6 @@
 {
   "name": "phonegap-nfc-api31-ios13fix",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Near Field Communication (NFC) Plugin. Supports Android 12+ [API level >= 31]",
   "cordova": {
     "id": "phonegap-nfc-cc",
